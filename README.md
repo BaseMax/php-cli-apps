@@ -2,6 +2,13 @@
 
 A simple, fast, and fun example for building command line apps in PHP.
 
+### Features
+
+- Support help text for special commands or in general
+- Support multi commands (also alias supported)
+- Support `-h` and `--help` flags
+- Support special flags for commands
+
 **max@base:~$ php cli.php**
 
 ```
