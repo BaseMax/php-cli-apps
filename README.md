@@ -2,6 +2,25 @@
 
 A simple, fast, and fun example for building command line apps in PHP.
 
+**max@base:~$ php donya.php**
+
+```
+Usage:
+  donya [command]
+
+Available Commands:
+  help        Help about any command
+  install     Installing package(s) in DonyaOS
+  remove      Removing package(s) in DonyaOS
+  list        Listing package(s) in DonyaOS
+  search      Search package(s) in the repository of DonyaOS
+
+Flags:
+  -h, --help   help for donya
+
+Use "donya [command] --help" for more information about a command.
+```
+
 ### Sample Commands
 
 ```
