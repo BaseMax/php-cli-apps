@@ -80,7 +80,7 @@ function callCommand($command) {
 }
 ```
 
-[Donya Package Manager](https://github.com/DonyaOS/) was purpose of writing this cli builder in PHP.
+[Donya Package Manager](https://github.com/DonyaOS/) was purpose of building this command line app in **PHP**.
 
 ---------
 
