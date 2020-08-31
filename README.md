@@ -2,7 +2,7 @@
 
 A simple, fast, and fun example for building command line apps in PHP.
 
-**max@base:~$ php donya.php**
+**max@base:~$ php cli.php**
 
 ```
 Usage:
@@ -79,6 +79,8 @@ function callCommand($command) {
 	}
 }
 ```
+
+[Donya Package Manager](https://github.com/DonyaOS/) was purpose of writing this cli builder in PHP.
 
 ---------
 
