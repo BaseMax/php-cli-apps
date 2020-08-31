@@ -87,6 +87,10 @@ function callCommand($command) {
 }
 ```
 
+### Related Repositories
+
+- https://github.com/BaseMax/MiniPHPArchiveCompressor
+
 [Donya Package Manager](https://github.com/DonyaOS/) was purpose of building this command line app in **PHP**.
 
 ---------
